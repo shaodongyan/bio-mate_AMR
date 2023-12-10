@@ -1,0 +1,35 @@
+{
+    "dataFile": {
+      "dataFilePath": "testpath.csv"
+    },
+    "columns": {
+      "path": "path",
+      "ref":"ref",
+      "databasepath":"/Users/R/Biomate/species/data",
+      "mode":"table"
+    },
+    "general": {
+      "title": "Species",
+      "ref": false,
+      "threads":1,
+      "treescaletype":"xasis",
+      "tiplab":true,
+      "heatmap":true,
+      "barplot":true
+    },
+    "plot_settings": {
+      "layout":"rectangular",
+      "branchlength":"1",
+      "treesize":1,
+      "treecolor":"black",
+      "treelinetype":"solid",
+      "staroffset":0.1,
+      "baroffset":0.3,
+      "scalefontsize":2,
+      "scalelinesize":1,
+      "scaleoffset":0.3,
+      "tiplabsize":2.8,
+      "width":8,
+      "height":6
+    }
+  }
